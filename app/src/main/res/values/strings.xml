@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sailor Timer</string>
+
+    <string name="button_start">Start</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_pause">Pause</string>
+    <string name="timeValue">00:00:000</string>
+</resources>
